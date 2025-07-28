@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Code. Create. Innovate.
 -----------------------
 
-💻 What I’m Currently Working On
+💻 What I’m Currently Working On:
 
 🚀 Built a frontend web application using HTML, CSS, JavaScript, and React
 
