@@ -54,11 +54,6 @@ src="https://img.shields.io/github/followers/AishwaryaAmin?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AishwaryaAmin"><img src="https://github-readme-stats.vercel.app/api?username=AishwaryaAmin&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=14532d&hide_border=true&show_icons=true" alt="AishwaryaAmin's GitHub stats" /></a>
-
-<a href="http://www.github.com/AishwaryaAmin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaAmin&stroke=000000&background=14532d&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="https://github.com/AishwaryaAmin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaAmin&langs_count=10&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏅 Certifications & Badges
 
