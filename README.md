@@ -1,5 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aishwarya Amin
 ======================================================================================================================================
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1232-blue?style=for-the-badge&labelColor=2f2f2f)
+
 
 Code. Create. Innovate.
 -----------------------
@@ -22,6 +24,18 @@ Code. Create. Innovate.
 
 <a href="https://www.github.com/AishwaryaAmin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AishwaryaAmin?logo=github&style=for-the-badge&color=ef4444&labelColor=14532d" /></a>
+# 📊 My GitHub Stats  
+
+### 🚀 Contribution Graph  
+![Aishwarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aishwaryaamin&bg_color=0d1117&color=ffffff&line=2f81f7&point=ffffff&area=true&hide_border=true)
+
+### ⭐ GitHub Stats Card  
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishwaryaamin&show_icons=true&theme=github_dark)
+
+### 🔥 GitHub Streaks  
+![Aishwarya's GitHub Streak](https://streak-stats.demolab.com?user=aishwaryaamin&theme=github-dark&hide_border=true)
+
+
 
 ### Skills
 
