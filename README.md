@@ -1,6 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aishwarya Amin
 ======================================================================================================================================
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1232-blue?style=for-the-badge&labelColor=2f2f2f)
 
 
 Code. Create. Innovate.
