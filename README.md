@@ -1,6 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aishwarya Amin
 ======================================================================================================================================
 ![Profile Views](https://komarev.com/ghpvc/?username=aishwaryaamin&label=Profile%20Views&color=0e75b6&style=flat)
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github.com/AishwaryaAmin/AishwaryaAmin/blob/main/badge1.png" width="100" />
+  <img src="https://github.com/AishwaryaAmin/AishwaryaAmin/blob/main/badge2.png" width="100" />
+  <img src="https://github.com/AishwaryaAmin/AishwaryaAmin/blob/main/badge3.png" width="100" />
+</p>
+
 
 
 
