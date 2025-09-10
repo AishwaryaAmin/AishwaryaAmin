@@ -32,18 +32,6 @@ src="https://img.shields.io/github/followers/AishwaryaAmin?logo=github&style=for
 ### 🚀 Contribution Graph  
 ![Aishwarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aishwaryaamin&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
 
-# 👋 Hi, I'm Aishwarya  
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= AishwaryaAmin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user= AishwaryaAmin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= AishwaryaAmin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id= AishwaryaAmin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-*This README was last updated on <!--DATE-->*
 
 
 
