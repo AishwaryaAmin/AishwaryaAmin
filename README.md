@@ -33,10 +33,10 @@ src="https://img.shields.io/github/followers/AishwaryaAmin?logo=github&style=for
 ![Aishwarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aishwaryaamin&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
 
 ### ⭐ GitHub Stats  
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishwaryaamin&show_icons=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=000000)
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaAmin&show_icons=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=000000)
 
 ### 🔥 GitHub Streaks  
-![Aishwarya's GitHub Streak](https://streak-stats.demolab.com?user=aishwaryaamin&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=00ff00&sideLabels=ffffff&dates=ffffff)
+![Aishwarya's GitHub Streak](https://streak-stats.demolab.com?user=AishwaryaAmin&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=00ff00&sideLabels=ffffff&dates=ffffff)
 
 ---
 
