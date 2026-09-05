@@ -8,7 +8,6 @@ I'm a **final-year Computer Science Engineering student** passionate about build
 My current focus is on ** full-stack development, and AI-powered applications**, while preparing for **SDE opportunities**.
 
 ---
-
 ## 🚀 What I'm Currently Focused On
 * 💻 **Full-Stack Development** — building and improving real-world applications using the MERN stack.
 * ⚛️ **Frontend Engineering** — developing responsive and interactive applications with React.js, JavaScript, HTML, CSS, and Tailwind CSS.
