@@ -3,25 +3,75 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Profile Views](https://komarev.com/ghpvc/?username=aishwaryaamin&label=Profile%20Views&color=0e75b6&style=flat)
 
 
+I'm a **final-year Computer Science Engineering student** passionate about building scalable, user-focused software and solving problems through technology.
 
-Code. Create. Innovate.
------------------------
+My current focus is on ** full-stack development, and AI-powered applications**, while preparing for **SDE opportunities**.
 
-💻 What I’m Currently Working On
+---
 
-🚀 Built a frontend web application using HTML, CSS, JavaScript, and React
+## 🚀 What I'm Currently Focused On
+* 💻 **Full-Stack Development** — building and improving real-world applications using the MERN stack.
+* ⚛️ **Frontend Engineering** — developing responsive and interactive applications with React.js, JavaScript, HTML, CSS, and Tailwind CSS.
+* 🔧 **Backend Engineering** — working with Node.js, Express.js, MongoDB, REST APIs, authentication, and databases.
+* 🤖 **AI & Generative AI** — exploring LLMs, RAG, and AI-powered solutions for real-world use cases.
+* 🏆 **Building & Collaborating** — participating in hackathons, technical events, open-source initiatives, and collaborative projects.
 
-🎯 Continuously improving problem solving technique and performance optimization
+---
+## 🛠️ Technical Skills
 
-🌱 Exploring Tailwind CSS, Next.js to level up my frontend web applications
+**Languages:** Java • Python • JavaScript • SQL
 
-📚 Learning to integrate frontend with backend services and APIs
+**Frontend:** React.js • HTML • CSS • Tailwind CSS • Bootstrap
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [aishwaryaamin78661@gmail.com](mailto:aishwaryaamin78661@gmail.com )
-* 🧠  I'm learning Deepening my knowledge in Data Structures & Algorithms while building real-world Full-Stack Web Applications using MERN stack.
-* 🤝  I'm open to collaborating on Open-source projects, innovative hackathons, and meaningful collaborations that solve real-world problems using technology.
-* ⚡  Tech enthusiast, and always up for a coding jam session!
+**Backend:** Node.js • Express.js • REST APIs
+
+**Databases:** MongoDB • MySQL
+
+**AI / ML:** Python • Pandas • NumPy • Scikit-learn • Generative AI • LLMs • RAG
+
+**Tools:** Git • GitHub • VS Code • Postman • Jupyter Notebook
+
+---
+
+## 💼 Open to Opportunities
+
+🎯**Ready to take on real-world engineering challenges, contribute to impactful projects, and grow alongside a great team.**
+
+I'm particularly interested in roles where I can:
+
+* Build impactful software products.
+* Solve challenging engineering problems.
+* Work with experienced engineering teams.
+* Apply my knowledge of DSA and full-stack development.
+* Learn and contribute to real-world projects.
+
+🤝 I'm also open to **open-source contributions, hackathons, and meaningful technical collaborations.**
+
+---
+
+## 🏆 Beyond Coding
+
+* 🚀 Hackathons & Technical Competitions
+* 🌐 Open Source
+* 🤖 AI & Emerging Technologies
+* 💡 Building Real-World Solutions
+* 🤝 Developer Communities & Technical Events
+
+---
+
+## 📫 Let's Connect
+
+📍 India
+✉️ **[aishwaryaamin78661@gmail.com](mailto:aishwaryaamin78661@gmail.com)**
+
+I'm always open to connecting with developers, recruiters, founders, and teams working on interesting technology.
+
+---
+
+### ⚡ Build. Solve. Learn. Repeat.
+
+**Turning ideas into software and problems into solutions. 🚀**
+
 
 <a href="https://www.github.com/AishwaryaAmin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AishwaryaAmin?logo=github&style=for-the-badge&color=ef4444&labelColor=14532d" /></a>
